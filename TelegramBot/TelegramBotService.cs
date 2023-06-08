@@ -11,8 +11,8 @@ namespace TelegramBot
 {
     public class TelegramBotService
     {
-        readonly string baseApiUrl = ""; // TODO: to use public key, change url here
-        readonly string[] tenants = new string[] { "" }; // TODO: place your key here
+        readonly string baseApiUrl = "6163649653:AAFhd8bo8MsR5i5Hou9Z6G0wYEj7XrA_pDI"; // TODO: to use public key, change url here
+        readonly string[] tenants = new string[] { "6163649653:AAFhd8bo8MsR5i5Hou9Z6G0wYEj7XrA_pDI" }; // TODO: place your key here
         public TelegramBotService()
         {
 
